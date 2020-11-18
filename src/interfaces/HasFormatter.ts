@@ -1,3 +1,3 @@
 export interface HasFormatter {
-    format():void;
+    format():string;
 }
